@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  op agar.bio bots
 // @author       ~ Java ~#1130
-// @match        http://agar.bio/
+// @match        http://de.agar.bio/
 // @grant        none
 // @run-at document-start
 // ==/UserScript==
