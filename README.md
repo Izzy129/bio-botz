@@ -34,4 +34,4 @@ Enjoy everyone i completely finished this project and i hope that you guys like 
 
 Made by 200bots.ga Developer Java
 
-https://discord.gg/GCv8TV
+https://200bots.ga
