@@ -37,9 +37,9 @@ window.agarbio = {
     packet: 0,
     server: null,
     timer: null,
-    botAmount: 25, //default amount, max = 500 then server crashes xd
+    botAmount: 100, //default amount, max = 500 then server crashes xd
     logWsEvent: false, //logs opcode , no needs xd
-    botName: "JAVA BOTZ!!",
+    botName: "botbot",
     StartBots: function () {
         if (eachBot && this.server) {
             let ab = new ArrayBuffer(5 + this.server.length * 2);
