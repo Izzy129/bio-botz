@@ -94,7 +94,7 @@ class Client { //define function ai
 		this.send(buf);
 		
 	setInterval(() => { // major fix
-	     this.agarbio('Izzybotz'); //xd 
+	     this.agarbio('botbot'); //xd 
           }, 1000); //default 1000
 	}
 
